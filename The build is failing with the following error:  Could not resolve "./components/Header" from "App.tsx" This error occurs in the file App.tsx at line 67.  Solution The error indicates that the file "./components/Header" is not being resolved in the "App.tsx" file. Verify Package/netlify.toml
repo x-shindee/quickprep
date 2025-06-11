@@ -1,0 +1,12 @@
+# This is the instruction file for Netlify's build system.
+
+[build]
+  # This is the command to build your Vite project.
+  command = "npm run build"
+
+  # This is the folder that Vite creates with the final website files.
+  publish = "dist"
+
+[build.environment]
+  # Specifies a stable version of Node.js to use for the build.
+  NODE_VERSION = "20"
