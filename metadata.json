@@ -1,0 +1,6 @@
+
+{
+  "name": "QuickCore",
+  "description": "An application that analyzes course PDFs using Gemini API to generate a prioritized study plan with learning strategies and key questions, helping students efficiently prepare for exams and grasp core concepts.",
+  "requestFramePermissions": []
+}
